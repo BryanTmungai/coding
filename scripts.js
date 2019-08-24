@@ -4,7 +4,6 @@
 //let age = prompt('how old are you');
 
 
-
 function drive(event) {
     event.preventDefault();
     let age = document.getElementById('age').value;
